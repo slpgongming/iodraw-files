@@ -1,1 +1,1 @@
-{"legend":{"top":"4%"},"toolbox":{"show":true,"feature":{"restore":{}}},"series":[{"name":"1","type":"pie","radius":[50,250],"center":["50%","55%"],"roseType":"area","itemStyle":{"borderRadius":8},"data":[]}],"grid":{"top":"13%"},"title":{"top":"0%","left":"center","text":"受访者性别"}}
+{"legend":{"top":"4%"},"toolbox":{"show":true,"feature":{"restore":{}}},"series":[{"name":"3","type":"pie","radius":[50,250],"center":["50%","55%"],"roseType":"area","itemStyle":{"borderRadius":8},"data":[]}],"grid":{"top":"13%"},"title":{"top":"0%","left":"center","text":"受访者性别"}}
